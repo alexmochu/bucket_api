@@ -88,7 +88,7 @@ virtualenv-clone==0.2.6
 virtualenvwrapper==4.8.1
 webencodings==0.5
 WebOb==1.7.3
-Werkzeug==0.12.1
+Werkzeug==0.15.3
 wrapt==1.9.0
 wxPython==3.0.2.0
 wxPython-common==3.0.2.0
