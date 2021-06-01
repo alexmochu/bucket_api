@@ -81,7 +81,7 @@ ttystatus==0.34
 Twisted==16.6.0
 ubuntuone-client-data==14.4
 unity-lens-photos==1.0
-urllib3==1.15.1
+urllib3==1.26.5
 venusian==1.1.0
 virtualenv==15.1.0
 virtualenv-clone==0.2.6
