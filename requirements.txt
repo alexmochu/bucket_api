@@ -35,7 +35,7 @@ isort==4.2.5
 itsdangerous==0.24
 Jinja2==2.9.5
 lazy-object-proxy==1.2.2
-lxml==3.7.3
+lxml==4.6.5
 Markdown==2.6.8
 MarkupSafe==1.0
 ndg-httpsclient==0.4.2
